@@ -6,7 +6,7 @@ import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
-BASE = "https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_{id}.jpg"
+BASE = "https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_{id}.svg"
 
 def check_id(sid: str, timeout: float = 10.0) -> tuple[int, str]:
     url = BASE.format(id=sid)

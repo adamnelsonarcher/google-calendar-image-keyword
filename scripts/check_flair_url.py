@@ -3,7 +3,7 @@
 Check whether a Google Calendar flair image URL is still reachable (HTTP 200).
 
 Uses the URL pattern from the repository README:
-  https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_[ID].jpg
+  https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_[ID].svg
 
 For phrases, candidate image ids are built by stripping non-alphanumeric characters
 from each whitespace-separated word, then trying longest-to-shortest *prefixes* of
@@ -31,7 +31,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 BASE = (
-    "https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_{id}.jpg"
+    "https://ssl.gstatic.com/calendar/images/eventillustrations/2024_v2/img_{id}.svg"
 )
 
 
@@ -54,7 +54,7 @@ def phrase_attempts(raw: str) -> list[tuple[str, str, int, int]]:
     s = raw.strip()
     if s.startswith("http://") or s.startswith("https://"):
         return [("", s, 1, 1)]
-    if "/" in s or s.endswith(".jpg"):
+    if "/" in s or s.endswith(".svg"):
         raise ValueError(
             "pass a full https URL, or an id/phrase without path slashes."
         )
