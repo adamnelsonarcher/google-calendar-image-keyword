@@ -1,0 +1,200 @@
+# flair_url_clusters.tsv - one row per keyword in a 200 cluster
+cluster_url	winner_id	keyword	redundant_tail
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_americanfootball.jpg	americanfootball	american football	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_art.jpg	art	art workshop	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_art.jpg	art	art workshops	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_artisticgymnastics.jpg	artisticgymnastics	artistic gymnastics	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_babyshower.jpg	babyshower	baby shower	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_babyshower.jpg	babyshower	babyshower	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_backtoschool.jpg	backtoschool	back to school	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_backtoschool.jpg	backtoschool	back2school	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_backtoschool.jpg	backtoschool	backtoschool	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_badminton.jpg	badminton	badminton	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_baseball.jpg	baseball	baseball	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_basketball.jpg	basketball	basketball	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_bbq.jpg	bbq	bbq	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_beer.jpg	beer	beer	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_birthday.jpg	birthday	birthday	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_bookclub.jpg	bookclub	book club	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_bowling.jpg	bowling	bowling	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_breakfast.jpg	breakfast	breakfast	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_camping.jpg	camping	camping	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_chinesenewyear.jpg	chinesenewyear	chinese lunar new year	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_chinesenewyear.jpg	chinesenewyear	chinese new year	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cinema.jpg	cinema	cinema	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cinema.jpg	cinema	visiting cinema	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_clean.jpg	clean	clean house	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_clean.jpg	clean	clean the apartment	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_clean.jpg	clean	clean the house	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_clean.jpg	clean	vacuum clean	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_climbing.jpg	climbing	climbing	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_climbing.jpg	climbing	rock climbing	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_code.jpg	code	learn to code	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_code.jpg	code	write code	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_coffee.jpg	coffee	coffee	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_concert.jpg	concert	concert	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cooking.jpg	cooking	cooking	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cricket.jpg	cricket	cricket competition	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cricket.jpg	cricket	cricket game	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cricket.jpg	cricket	cricket match	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cycling.jpg	cycling	cycling	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dancing.jpg	dancing	dancing	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dentist.jpg	dentist	dentist	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	candle light dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	candlelight dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	christmas dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	christmas eve dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	cook dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	dinner	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	make dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	prepare dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	romantic dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_drinks.jpg	drinks	drinks	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_fieldhockey.jpg	fieldhockey	field hockey	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_golf.jpg	golf	golf	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_graduation.jpg	graduation	graduation	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_gym.jpg	gym	gym	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_haircut.jpg	haircut	haircut	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_halloween.jpg	halloween	halloween	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_halloween.jpg	halloween	halloween dance	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_hiking.jpg	hiking	hiking	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_islamicnewyear.jpg	islamicnewyear	Islamic New Year	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_karate.jpg	karate	karate	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_kayaking.jpg	kayaking	kayaking	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	christmas eve lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	christmas lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	cook lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	lunch	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	make lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	prepare lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_mardigras.jpg	mardigras	mardi gras	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_mardigras.jpg	mardigras	mardigras	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_massage.jpg	massage	massage	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_newyear.jpg	newyear	Hijri New Year	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_newyear.jpg	newyear	new year	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_newyear.jpg	newyear	Parsi New Year	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_newyear.jpg	newyear	Persian New Year	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_newyear.jpg	newyear	vietnamese new year	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_nowruz.jpg	nowruz	Nowruz	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pingpong.jpg	pingpong	ping pong	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pingpong.jpg	pingpong	ping-pong	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pingpong.jpg	pingpong	pingpong	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pride.jpg	pride	euro pride	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pride.jpg	pride	gay pride	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pride.jpg	pride	lesbian pride	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pride.jpg	pride	world pride	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_reachout.jpg	reachout	reach out to	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_repair.jpg	repair	fridge repair	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_rhythmicgymnastics.jpg	rhythmicgymnastics	rhythmic gymnastics	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_rowing.jpg	rowing	rowing	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_running.jpg	running	running	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_skiing.jpg	skiing	skiing	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_sleep.jpg	sleep	sleep	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_soccer.jpg	soccer	soccer	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_swimming.jpg	swimming	swimming	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_swimming.jpg	swimming	synchronized swimming	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_tennis.jpg	tennis	table tennis	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_tennis.jpg	tennis	tennis	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_thanksgiving.jpg	thanksgiving	thanksgiving	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_triathlon.jpg	triathlon	triathlon	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_valentinesday.jpg	valentinesday	valentines day	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_videogaming.jpg	videogaming	video gaming	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_videogaming.jpg	videogaming	videogaming	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_volleyball.jpg	volleyball	volleyball	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_walk.jpg	walk	going for a walk	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_walk.jpg	walk	walk dog	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_walk.jpg	walk	walk the dog	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_wedding.jpg	wedding	wedding	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_wedding.jpg	wedding	wedding eve	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas brunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas eve brunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas eve dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas eve lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas eve luncheon	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	x-mas luncheon	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas brunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas eve brunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas eve dinner	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas eve lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas eve luncheon	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas lunch	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	xmas luncheon	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmasparty.jpg	xmasparty	x-mas eve party	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmasparty.jpg	xmasparty	x-mas party	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmasparty.jpg	xmasparty	xmas eve party	yes
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmasparty.jpg	xmasparty	xmas party	no
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_yoga.jpg	yoga	yoga	no
+
+# cluster_index - one line per distinct image URL
+cluster_url	winner_id	keyword_count	redundant_tail_count
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_americanfootball.jpg	americanfootball	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_art.jpg	art	2	2
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_artisticgymnastics.jpg	artisticgymnastics	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_babyshower.jpg	babyshower	2	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_backtoschool.jpg	backtoschool	3	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_badminton.jpg	badminton	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_baseball.jpg	baseball	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_basketball.jpg	basketball	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_bbq.jpg	bbq	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_beer.jpg	beer	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_birthday.jpg	birthday	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_bookclub.jpg	bookclub	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_bowling.jpg	bowling	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_breakfast.jpg	breakfast	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_camping.jpg	camping	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_chinesenewyear.jpg	chinesenewyear	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cinema.jpg	cinema	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_clean.jpg	clean	4	4
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_climbing.jpg	climbing	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_code.jpg	code	2	2
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_coffee.jpg	coffee	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_concert.jpg	concert	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cooking.jpg	cooking	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cricket.jpg	cricket	3	3
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_cycling.jpg	cycling	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dancing.jpg	dancing	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dentist.jpg	dentist	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_dinner.jpg	dinner	9	8
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_drinks.jpg	drinks	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_fieldhockey.jpg	fieldhockey	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_golf.jpg	golf	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_graduation.jpg	graduation	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_gym.jpg	gym	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_haircut.jpg	haircut	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_halloween.jpg	halloween	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_hiking.jpg	hiking	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_islamicnewyear.jpg	islamicnewyear	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_karate.jpg	karate	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_kayaking.jpg	kayaking	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_lunch.jpg	lunch	6	5
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_mardigras.jpg	mardigras	2	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_massage.jpg	massage	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_newyear.jpg	newyear	5	4
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_nowruz.jpg	nowruz	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pingpong.jpg	pingpong	3	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_pride.jpg	pride	4	4
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_reachout.jpg	reachout	1	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_repair.jpg	repair	1	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_rhythmicgymnastics.jpg	rhythmicgymnastics	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_rowing.jpg	rowing	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_running.jpg	running	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_skiing.jpg	skiing	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_sleep.jpg	sleep	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_soccer.jpg	soccer	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_swimming.jpg	swimming	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_tennis.jpg	tennis	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_thanksgiving.jpg	thanksgiving	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_triathlon.jpg	triathlon	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_valentinesday.jpg	valentinesday	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_videogaming.jpg	videogaming	2	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_volleyball.jpg	volleyball	1	0
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_walk.jpg	walk	3	3
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_wedding.jpg	wedding	2	1
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmas.jpg	xmas	18	16
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_xmasparty.jpg	xmasparty	4	2
+https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_yoga.jpg	yoga	1	0

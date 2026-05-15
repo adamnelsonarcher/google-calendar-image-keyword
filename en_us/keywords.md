@@ -12,9 +12,7 @@ allhalloween
 
 american football
 
-art workshop
-
-art workshops
+archery
 
 artistic gymnastics
 
@@ -60,6 +58,8 @@ bikes
 
 biking
 
+billiard
+
 birthday
 
 bmx
@@ -78,6 +78,8 @@ bouldering
 
 bowling
 
+boxing
+
 breakfast
 
 breakfasts
@@ -92,17 +94,11 @@ bus ride
 
 camping
 
-candle light dinner
-
-candlelight dinner
-
 canoe
 
 canoeing
 
 cello
-
-chinese lunar new year
 
 chinese new year
 
@@ -114,23 +110,17 @@ choir
 
 choir practice
 
+chores
+
 christmas
 
 christmas brunch
 
-christmas dinner
-
 christmas eve brunch
-
-christmas eve dinner
-
-christmas eve lunch
 
 christmas eve luncheon
 
 christmas eve party
-
-christmas lunch
 
 christmas luncheon
 
@@ -143,12 +133,6 @@ cinema
 clarinet
 
 classical music
-
-clean house
-
-clean the apartment
-
-clean the house
 
 climbing
 
@@ -166,21 +150,11 @@ concerts
 
 contrabass
 
-cook dinner
-
-cook lunch
-
 cook meal
 
 cooking
 
 cornett
-
-cricket competition
-
-cricket game
-
-cricket match
 
 crossfit
 
@@ -222,6 +196,8 @@ drinks
 
 dyke march
 
+eating
+
 ebook
 
 electrician
@@ -230,13 +206,15 @@ english class
 
 english course
 
-euro pride
+equestrian
 
 europride
 
 Fat Tuesday
 
 father christmas
+
+fencing
 
 field hockey
 
@@ -266,8 +244,6 @@ french class
 
 french course
 
-fridge repair
-
 games done quick
 
 gay and lesbian
@@ -275,8 +251,6 @@ gay and lesbian
 gay lesbian
 
 gay parade
-
-gay pride
 
 gaygler
 
@@ -289,8 +263,6 @@ german course
 gig
 
 gigs
-
-going for a walk
 
 golf
 
@@ -308,7 +280,9 @@ hairdresser
 
 halloween
 
-halloween dance
+handball
+
+handcraft
 
 handyman
 
@@ -318,13 +292,13 @@ Head of the River Race
 
 helloween
 
-Hijri New Year
-
 hike
 
 hikes
 
 hiking
+
+hobby
 
 Islamic New Year
 
@@ -348,13 +322,9 @@ karate
 
 kayaking
 
-learn to code
-
 lesbian march
 
 lesbian parade
-
-lesbian pride
 
 lunch
 
@@ -362,9 +332,7 @@ luncheon
 
 lunches
 
-make dinner
-
-make lunch
+manicure
 
 mardi gras
 
@@ -414,11 +382,7 @@ parcel
 
 parcel pick-up
 
-Parsi New Year
-
 payment
-
-Persian New Year
 
 piano
 
@@ -446,13 +410,9 @@ practice french
 
 practice german
 
-prepare dinner
-
-prepare lunch
-
 prepare meal
 
-reach out to
+read
 
 reading
 
@@ -468,19 +428,21 @@ resting
 
 rhythmic gymnastics
 
-rock climbing
-
-romantic dinner
-
 rowing
 
 rugby
 
 running
 
+sailing
+
+santa
+
 saxophone
 
 SGDQ
+
+shooting
 
 shopping
 
@@ -520,10 +482,6 @@ swimming
 
 swims
 
-synchronized swimming
-
-table tennis
-
 taekwondo
 
 take dog out
@@ -556,8 +514,6 @@ tuba
 
 vacation planning
 
-vacuum clean
-
 vacuum cleaning
 
 valentine day
@@ -576,23 +532,15 @@ videogames
 
 videogaming
 
-vietnamese new year
-
-visiting cinema
+violin
 
 volleyball
-
-walk dog
-
-walk the dog
 
 walking
 
 watching a movie
 
 wedding
-
-wedding eve
 
 wedding-eve party
 
@@ -608,13 +556,11 @@ workout
 
 workouts
 
-world pride
-
 worldpride
 
-write
+wrestling
 
-write code
+write
 
 write letter
 
@@ -624,45 +570,9 @@ writing graffiti
 
 x-mas
 
-x-mas brunch
-
-x-mas dinner
-
-x-mas eve brunch
-
-x-mas eve dinner
-
-x-mas eve lunch
-
-x-mas eve luncheon
-
-x-mas eve party
-
-x-mas lunch
-
-x-mas luncheon
-
 x-mas party
 
 xmas
-
-xmas brunch
-
-xmas dinner
-
-xmas eve brunch
-
-xmas eve dinner
-
-xmas eve lunch
-
-xmas eve luncheon
-
-xmas eve party
-
-xmas lunch
-
-xmas luncheon
 
 xmas party
 
